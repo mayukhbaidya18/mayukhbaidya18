@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any iOS project**
 
-- 📫 How to reach me **(https://www.linkedin.com/in/mayukh-baidya-732b762a5/)**
+- 📫 How to reach me **4mayukh@gmail.com**
 
 - ⚡ Fun fact **I am pretty good at chess I think, 2000+ rapid rating and 1900+ blitz rating on chess.com!**
 
