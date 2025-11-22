@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukhbaidya18" alt="mayukhbaidya18" /></a> </p>
 
-- 🔭 I’m currently working on **Swift Student Challenge, 2026**
+- 🔭 I’m currently working on **Swift Student Challenge and GSOC, 2026**
 
 - 👯 I’m looking to collaborate on **any iOS project**
 
