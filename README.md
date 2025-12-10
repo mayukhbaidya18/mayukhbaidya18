@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **4mayukh@gmail.com**
 
-- ⚡ Fun fact **I am pretty good at chess I think, 2000+ rapid rating and 1900+ blitz rating on chess.com!**
+- ⚡ Fun fact **I am pretty good at chess I think, 2200+ on lichess!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
