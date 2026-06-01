@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukhbaidya18&label=Profile%20views&color=0e75b6&style=flat" alt="mayukhbaidya18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukhbaidya18" alt="mayukhbaidya18" /></a> </p>
-
 - 👯 Hey there! I’m looking to collaborate!
 
 - 📫 How to reach me **4mayukh@gmail.com**
