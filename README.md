@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **4mayukh@gmail.com**
 
-- 📄 Find my resume **<a href="https://drive.google.com/file/d/1NkXCVt9qrGz5aVMu18AMEo6kOY6pzvcp/view?usp=sharing">here</a>**
+- 👀 Find my resume **<a href="https://drive.google.com/file/d/1NkXCVt9qrGz5aVMu18AMEo6kOY6pzvcp/view?usp=sharing">HERE</a>**
 
 - ⚡ Fun fact **I am pretty good at chess I think, 2200+ on lichess!**
 
