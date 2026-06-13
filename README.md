@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayukh Baidya</h1>
-<h3 align="center">A passionate iOS app developer from India</h3>
+<h3 align="center">Undergraduate student at IIT BHU, focused on AI engineering and iOS app development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukhbaidya18&label=Profile%20views&color=0e75b6&style=flat" alt="mayukhbaidya18" /> </p>
 
